@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DawnEnlightened
-- 👀 I’m interested in almost anything
-- 🌱 I’m currently learning alot
-- 💞️ I’m looking to collaborate on anything i understand (not alot).
-- 📫 How to reach me... ummm
+- Hi, I’m @DawnEnlightened
+- I’m interested in almost anything
+- I’m currently learning alot
+- I’m looking to collaborate on anything i understand (not alot).
+- How to reach me... ummm
